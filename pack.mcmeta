@@ -1,8 +1,6 @@
 {
   "pack": {
-    "pack_format": 75,
-    "min_format": 70,
-    "max_format": 75,
+    "pack_format": 5,
     "description": "Blank Template"
   }
 }
