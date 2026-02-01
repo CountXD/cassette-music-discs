@@ -1,6 +1,6 @@
 {
-    "pack": {
-        "pack_format": 64,
-        "description": "cassette music discs"
-    }
+  "pack": {
+    "pack_format": 6,
+    "description": "Blank Template"
+  }
 }
